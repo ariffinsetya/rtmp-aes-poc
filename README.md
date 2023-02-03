@@ -10,4 +10,5 @@
 1. Try to watch http://localhost:9080/hls/test.m3u8 via other player (vlc, hls.js in other html page etc) - UNPLAYABLE
 ## References
 https://github.com/nimigeanu/encrypted-hls-live-streaming
+
 https://www.theoplayer.com/blog/content-protection-for-hls-with-aes-128-encryption
