@@ -1,9 +1,9 @@
-Simple Proof of Concept AES HLS ENCRYPTED STREAMING
-# Prerequisites
+# Simple Proof of Concept AES HLS ENCRYPTED STREAMING
+## Prerequisites
 - Docker
 - Docker Compose
 - OBS/FFMPEG for streaming rtmp
-# Step by step
+## Step by step
 1. docker-compose up
 1. Stream to rtmp://localhost:3935/stream/test
 1. Watch via http://localhost:9081/player - PLAYABLE
